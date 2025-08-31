@@ -6,7 +6,7 @@ The core objective is to assemble a team capable of:
 2) Defending a score of 150 runs on average.
 
 ## Project Workflow
-The project follows a structured workflow to ensure a robust analysis:
+The project follows a structured workflow to ensure a robust analysis:  
 ***1) Data Acquisition:*** Player statistics from the T20 World Cup 2022 were scraped from the ESPNcricinfo website. The data was initially collected in JSON format.  
 ***2) Data Transformation:*** The raw JSON data was converted into a CSV format.  
 ***3) Data Cleaning & Analysis:*** The CSV data was loaded into a Pandas DataFrame for cleaning and transformation. This step involved handling missing values, standardizing data types, and feature engineering to prepare the data for analysis.  
