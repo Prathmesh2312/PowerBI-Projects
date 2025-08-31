@@ -1,5 +1,5 @@
 # Cricket T20 World Cup 2022 - Best 11 Player Analysis
-This project, titled "Project Sportan," aims to identify the best 11 cricket players from the T20 World Cup 2022 based on a data-driven approach. I have used web scraping to collect player statistics, performed data cleaning and transformation, and then developed a Power BI dashboard to visualize the insights and select the optimal team.
+This project, titled "T20 World Cup 2022 Dashboard", aims to identify the best 11 cricket players from the T20 World Cup 2022 based on a data-driven approach. I have used web scraping to collect player statistics, performed data cleaning and transformation, and then developed a Power BI dashboard to visualize the insights and select the optimal team.
 
 The core objective is to assemble a team capable of:
 1) Scoring at least 180 runs on average.
@@ -7,10 +7,10 @@ The core objective is to assemble a team capable of:
 
 ## Project Workflow
 The project follows a structured workflow to ensure a robust analysis:
-**1) Data Acquisition:** Player statistics from the T20 World Cup 2022 were scraped from the ESPNcricinfo website. The data was initially collected in JSON format.
-**2) Data Transformation:** The raw JSON data was converted into a CSV format.
-**3) Data Cleaning & Analysis:** The CSV data was loaded into a Pandas DataFrame for cleaning and transformation. This step involved handling missing values, standardizing data types, and feature engineering to prepare the data for analysis.
-**4) Dashboard Development:** A comprehensive dashboard was created in Power BI to present the findings and facilitate the selection of the best 11 players.
+***1) Data Acquisition:*** Player statistics from the T20 World Cup 2022 were scraped from the ESPNcricinfo website. The data was initially collected in JSON format.  
+***2) Data Transformation:*** The raw JSON data was converted into a CSV format.  
+***3) Data Cleaning & Analysis:*** The CSV data was loaded into a Pandas DataFrame for cleaning and transformation. This step involved handling missing values, standardizing data types, and feature engineering to prepare the data for analysis.  
+***4) Dashboard Development:*** A comprehensive dashboard was created in Power BI to present the findings and facilitate the selection of the best 11 players.  
 
 ## Player Selection Parameters
 The following parameters and criteria were used to select players for each role in the team, as defined in the "Parameter Scoping" document.
